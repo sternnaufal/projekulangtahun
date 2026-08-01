@@ -6,3 +6,8 @@ Ini adalah script HTML, CSS dan JS yang sangat berguna bagi kalian yang ingin me
 -Github : github.com/sternnaufal<br>
 -Blog : pentingliterasi.blogspot.com<br>
 -Replit : replit.com/@sternnaufal<br>
+
+
+---
+
+Dibuat oleh [Naufal Rakha Putra](https://www.naufalrakha.my.id) — lihat proyek lainnya di [naufalrakha.my.id](https://www.naufalrakha.my.id)
